@@ -1,0 +1,22 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "포트폴리오",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edcs960/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edcs960/Portfolio/issues"
+  },
+  "homepage": "https://github.com/edcs960/Portfolio#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
